@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola soy Daniela Imilqueo
 
-<!--
-**DanielaImilqueo/danielaimilqueo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingresante en la carrera Ingenieria en Computacion
+es la primer experiencia que tengo en la universidad ✨
 
-Here are some ideas to get you started:
+## Soy mamá de 4 hijos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trabajo como Inspector de Bromatología en un Puesto Sanitario, dependiente de la Municipalidad de Bariloche
+
+Mis pasatiempos:
+
+- ⚡ Me gusta ir al gimnasio
+--Pasear al aire libre con mi familia, subir a la montaña, disfrutar la naturaleza
+--
